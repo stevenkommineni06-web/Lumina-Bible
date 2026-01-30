@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Bible",
+  "description": "An immersive Bible reference application that uses Gemini AI to fetch scriptures from Genesis to Revelation and generate stunning visual interpretations of biblical verses.",
+  "requestFramePermissions": []
+}
